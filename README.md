@@ -14,7 +14,7 @@
 <!-- TYPING ANIMATION -->
 <div align="center">
   <a href="https://github.com/NurAbir">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=700&height=50&lines=May+the+Will+of+the+Moon+be+with+you.;Build.+Break.+Learn.+Repeat.;System+Online...&repeat=true" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=700&height=50&lines=Everything+that+lives+designed+to+end;Build.+Break.+Learn.+Repeat.;System+Online...&repeat=true" />
   </a>
 </div>
 
@@ -136,6 +136,6 @@
 
   <br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=2000&color=FF0033&center=true&vCenter=true&width=600&height=40&lines=[SESSION+TERMINATED];May+the+Will+of+the+Moon+be+with+you.&repeat=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=2000&color=FF0033&center=true&vCenter=true&width=600&height=40&lines=[SESSION+TERMINATED];Hesitation+is+Defeat&repeat=true" />
 
 </div>
