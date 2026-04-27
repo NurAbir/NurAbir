@@ -95,12 +95,12 @@
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=NurAbir&show_icons=true&theme=radical&bg_color=0d0d0d&title_color=ff0033&text_color=e0e0e0&icon_color=ff0033&border_color=ff0033&hide_border=false&border_radius=10&cache_seconds=86400" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NurAbir&theme=radical&background=0D0D0D&border=ff0033&ring=ff0033&fire=ff0033&currStreakLabel=ff0033&sideLabels=ff0033&currStreakNum=ffffff&sideNums=ffffff&dates=888888" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurAbir&layout=compact&theme=radical&bg_color=0d0d0d&title_color=ff0033&text_color=e0e0e0&border_color=ff0033&border_radius=10&cache_seconds=86400" height="170"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurAbir&layout=compact&theme=radical&bg_color=0d0d0d&title_color=ff0033&text_color=e0e0e0&border_color=ff0033&border_radius=10&cache_seconds=86400" height="170"/>
+  <img src="https://github-activity-graph.vercel.app/graph?username=NurAbir&bg_color=0d0d0d&color=ff0033&line=ff0033&point=ffffff&area=true&area_color=ff0033&border_color=ff0033&hide_border=false&radius=10" width="100%"/>
 </div>
 
 ---
