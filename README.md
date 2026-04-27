@@ -1,11 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     ╔═══════════════════════════════════════════════════════════════╗
-     ║  SYSTEM: NURABIR_PROFILE v7.0                                 ║
-     ║  THEME: CYBERLINE_RED                                         ║
-     ║  STATUS: ONLINE                                                ║
-     ╚═══════════════════════════════════════════════════════════════╝
-     ═══════════════════════════════════════════════════════════════ -->
-
 <!-- HEADER BANNER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:ff0033,100:0d0d0d&height=180&section=header&text=NurAbir&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=CSE%20%40%20BRACU%20%7C%20Moon%20Walker%20%7C%20Code%20Wanderer&descAlignY=60&descSize=16&descColor=ff0033&animation=fadeIn" />
@@ -25,7 +17,6 @@
 
   ![Status](https://img.shields.io/badge/-ONLINE-0d0d0d?style=for-the-badge&logo=statuspage&logoColor=ffffff&labelColor=ff0033)
   ![Location](https://img.shields.io/badge/-DHAKA,%20BANGLADESH-0d0d0d?style=for-the-badge&logo=googlemaps&logoColor=ffffff&labelColor=ff0033)
-  ![OS](https://img.shields.io/badge/-NEURAL%20LINK-0d0d0d?style=for-the-badge&logo=linux&logoColor=ffffff&labelColor=ff0033)
 
 </div>
 
