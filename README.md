@@ -93,14 +93,13 @@
 </div>
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=NurAbir&show_icons=true&theme=radical&bg_color=0d0d0d&title_color=ff0033&text_color=e0e0e0&icon_color=ff0033&border_color=ff0033&hide_border=false&border_radius=10&cache_seconds=86400" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurAbir&layout=compact&theme=radical&bg_color=0d0d0d&title_color=ff0033&text_color=e0e0e0&border_color=ff0033&border_radius=10&cache_seconds=86400" height="170"/>
-
+  <img src="https://streak-stats.demolab.com?user=NurAbir&theme=radical&background=0d0d0d&border=ff0033&stroke=ff0033&ring=ff0033&fire=ff0033&currStreakNum=e0e0e0&sideNums=e0e0e0&currStreakLabel=ff0033&sideLabels=ff0033&dates=e0e0e0&border_radius=10" height="170"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=NurAbir&bg_color=0d0d0d&color=ff0033&line=ff0033&point=ffffff&area=true&area_color=ff0033&border_color=ff0033&hide_border=false&radius=10" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NurAbir&bg_color=0d0d0d&color=ff0033&line=ff0033&point=ffffff&area=true&area_color=ff0033&border_color=ff0033&radius=10" width="100%"/>
 </div>
 
 ---
