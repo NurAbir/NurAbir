@@ -93,10 +93,13 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=NurAbir&theme=radical&background=0d0d0d&border=ff0033&stroke=ff0033&ring=ff0033&fire=ff0033&currStreakNum=e0e0e0&sideNums=e0e0e0&currStreakLabel=ff0033&sideLabels=ff0033&dates=e0e0e0&border_radius=10" height="170"/>
-</div>
 
-<br/>
+  ![Followers](https://img.shields.io/github/followers/NurAbir?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=ff0033&color=0d0d0d&label=FOLLOWERS)
+  ![Stars](https://img.shields.io/github/stars/NurAbir?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=ff0033&color=0d0d0d&label=TOTAL+STARS)
+  ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/NurAbir&query=public_repos&style=for-the-badge&logo=github&logoColor=ffffff&labelColor=ff0033&color=0d0d0d&label=PUBLIC+REPOS)
+  ![Views](https://komarev.com/ghpvc/?username=NurAbir&style=for-the-badge&color=0d0d0d&labelColor=ff0033&label=PROFILE+VIEWS&abbreviated=true)
+
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NurAbir&bg_color=0d0d0d&color=ff0033&line=ff0033&point=ffffff&area=true&area_color=ff0033&border_color=ff0033&radius=10" width="100%"/>
