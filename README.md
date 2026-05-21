@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:ff0033,100:0d0d0d&height=180&section=header&text=NurAbir&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=CSE%20%40%20BRACU%20%7C%20Moon%20Walker%20%7C%20Code%20Wanderer&descAlignY=60&descSize=16&descColor=ff0033&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:ff0033,100:0d0d0d&height=180&section=header&text=NurAbir&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=CSE%20%40%20BRACU%20%7C%20Just%20A%20Bard%&descAlignY=60&descSize=16&descColor=ff0033&animation=fadeIn" />
 </div>
 
 <!-- TYPING ANIMATION -->
