@@ -137,7 +137,10 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NurAbir&bg_color=0d0d0d&color=ff0033&line=ff0033&point=ffffff&area=true&area_color=ff003320&border_color=ff0033&radius=12&hide_border=false" width="95%"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NurAbir&theme=dark&title_color=ff0033&text_color=ffffff&bg_color=0d0d0d&border_color=ff0033&icon_color=ff0033&chart_color=ff0033"
+    width="95%"
+  />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
