@@ -76,7 +76,6 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=ff0033&labelColor=1a1a1a)
   ![C](https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=ff0033&labelColor=1a1a1a)
   ![C#](https://img.shields.io/badge/C%23-0d0d0d?style=for-the-badge&logo=csharp&logoColor=ff0033&labelColor=1a1a1a)
-  ![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=ff0033&labelColor=1a1a1a)
 
 </div>
 
