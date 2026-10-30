@@ -10,7 +10,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
   <a href="https://github.com/NurAbir">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=800&height=60&lines=Everything+that+lives+is+designed+to+end;Desktop+apps.+REST+APIs.+Browser+extensions.;Python+%7C+FastAPI+%7C+C+%7C+JavaScript;Hesitation+is+Defeat&repeat=true" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=800&height=60&lines=Everything+that+lives+is+designed+to+end;Desktop+apps.+REST+APIs.+Browser+extensions.;Python+%7C+FastAPI+%7C+C+%7C+C%23+%7C+JavaScript;Hesitation+is+Defeat&repeat=true" alt="Typing SVG" />
   </a>
 </div>
 
@@ -23,7 +23,7 @@
 
 <p align="center">
   CSE undergrad at BRAC University who builds tools people actually use:<br>
-  a desktop reading tracker with its own browser extension, a disaster-response API, and a few things in between.
+  a desktop reading tracker with its own browser extension, a disaster-response API, an offline password manager, and a few things in between.
 </p>
 
 <br>
@@ -122,8 +122,9 @@
 
 | PROJECT | TYPE | STACK | WHAT IT DOES |
 |:---|:---|:---|:---|
-| **[Library-of-Yore](https://github.com/NurAbir/Library-of-Yore)** | ![Desktop App](https://img.shields.io/badge/DESKTOP%20APP-v2.1.0-ff0033?style=flat-square&labelColor=0d0d0d) | `Python` `PyQt6` `TinyDB` `Playwright` | Web novel and manga tracker. Scrapes metadata and chapter lists from 6 sites, syncs reading progress through a companion browser extension, ships as a portable `.exe`. |
+| **[Library-of-Yore](https://github.com/NurAbir/Library-of-Yore)** | ![Desktop App](https://img.shields.io/badge/DESKTOP%20APP-v2.2.0-ff0033?style=flat-square&labelColor=0d0d0d) | `Python` `PyQt6` `TinyDB` `Playwright` | Web novel and manga tracker. Scrapes metadata and chapter lists from 5 sites, syncs reading progress through a companion browser extension, ships as a portable `.exe`. |
 | **[Disaster-Missing-Persons](https://github.com/NurAbir/Disaster-Missing-Persons)** | ![REST API](https://img.shields.io/badge/REST%20API-FastAPI-ff0033?style=flat-square&labelColor=0d0d0d) | `Python` `FastAPI` `MongoDB` `JWT` | Missing-persons system for disaster zones. Role-based access for admins, rescuers and the public, image compression for low bandwidth, auto-expiring cases, CI on every push. |
+| **[Heavenly-Lock](https://github.com/NurAbir/Heavenly-Lock)** | ![Desktop App](https://img.shields.io/badge/DESKTOP%20APP-.NET%208-ff0033?style=flat-square&labelColor=0d0d0d) | `C#` `.NET 8` `AES-256-GCM` `Argon2id` | Fully offline password manager for Windows. Encrypted single-file vault, 12-word recovery phrase, lockout protection, password generator, clipboard auto-clear, and zero cloud dependency. |
 | **[Obesity-Classification](https://github.com/NurAbir/Obesity-Classification)** | ![ML](https://img.shields.io/badge/ML-5%20MODELS-ff0033?style=flat-square&labelColor=0d0d0d) | `scikit-learn` `TensorFlow` `pandas` | Benchmarks KNN, Decision Tree, Logistic Regression, Naive Bayes and an MLP across 7 obesity classes, plus K-Means and PCA for unsupervised analysis. |
 | **[YT-redirect-newtab-extension](https://github.com/NurAbir/YT-redirect-newtab-extension)** | ![Extension](https://img.shields.io/badge/EXTENSION-6%20BROWSERS-ff0033?style=flat-square&labelColor=0d0d0d) | `JavaScript` `MV3` `MV2` | Opens YouTube video links on yout-ube.com in a new tab without touching the current page. Chromium and Firefox editions. ![Stars](https://img.shields.io/github/stars/NurAbir/YT-redirect-newtab-extension?style=flat-square&color=ff0033&labelColor=0d0d0d&label=★) |
 | **[Mini-Virtual-Simple-File-System](https://github.com/NurAbir/Mini-Virtual-Simple-File-System)** | ![Systems](https://img.shields.io/badge/SYSTEMS-C-ff0033?style=flat-square&labelColor=0d0d0d) | `C` | Educational file system built from scratch: superblock, inode table and directory entries. |
